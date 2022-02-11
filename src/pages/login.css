@@ -1,0 +1,17 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+img{
+    margin: auto;
+    border-top:none ;
+    color: transparent;
+}
+
+.MuiIconButton-root{
+    padding: 0 !important ;
+    margin: 0 0 10px 0 !important ;
+}
+.textfild__label{
+    margin: 0 0 10px 0 !important ;
+}
