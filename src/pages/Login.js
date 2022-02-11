@@ -162,6 +162,7 @@ export default function Login() {
                     }} >Entre</Button>
                 </Grid>
             </Paper>
+            <TextField>© Software Powered by Xtrategie <br/> 2009-2021</TextField>
         </Grid>
     )
 }
